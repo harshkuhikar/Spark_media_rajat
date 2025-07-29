@@ -40,7 +40,7 @@ const Navbar = () => {
             </div>
             <div className="flex flex-col">
               <h1 className="text-xl font-bold gradient-text leading-tight">
-                Harsh J Kuhikar
+                Spark Media
               </h1>
               <p className="text-xs text-gray-400 leading-tight">Ignition</p>
             </div>
